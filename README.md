@@ -3,7 +3,7 @@
 Desenvolvi um dashboard no Power BI a partir de uma planilha do Excel, destacando gráficos que ilustram o **Faturamento Total, o Faturamento Segmentado por Marcas, o Faturamento Total por Capital e a Quantidade Vendida Mensalmente.** Essa abordagem permite uma visualização clara e concisa dos dados, facilitando a tomada de decisões estratégicas. A interatividade do Power BI transforma a análise de vendas em uma experiência dinâmica e informativa.
 
 <div>
-<img src="Dashboard/dashboardpowerbi.png" width="800px" />
+<img src="Dashboard/dashboardpowerbi.png" width="600px" />
 
 # Como Funciona 📌
 
