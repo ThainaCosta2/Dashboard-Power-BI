@@ -14,9 +14,9 @@ Além disso, a interatividade entre os gráficos permite que os usuários explor
 As seguintes ferramentas que foram utilizadas na construção do projeto:
 <table>
   <thead>
+    <tbody>
     <td> <b>Microsoft Excel:</b> Utilizado como a fonte de dados, permitindo a organização e manipulação eficiente das informações antes de serem importadas para o Power BI.</td>
   </thead>
-  <tbody>
     <thead>
       <td> <b>Power BI:</b> Plataforma de visualização de dados que transforma informações em dashboards interativos, facilitando a análise e a apresentação de dados complexos de forma acessível. </td>
     </thead>
